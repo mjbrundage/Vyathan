@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt, AKA Vyathan.
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Website Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on any HTML, CSS, JavaScript or complete web design projects.
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript or complete web design projects.
 - 📫 You can reach me at, Vyathan@icloud.com
