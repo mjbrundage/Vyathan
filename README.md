@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Matt, AKA Vyathan.
-- 👀 I’m interested in Python, and advanced Networking.
-- 🌱 I’m currently learning React.
-- 💞️ I’m a Freelance Tech Consultant always open to collaboration.
-- 📫 You can reach me at, Vyathan@icloud.com
+- 👋 Hi, I’m Matt, AKA Vyathan, AKA Master Vyathan.
+- 👀 I’m interested in Full-Stack Web Development.
+- 🌱 I’m currently learning Mongo.
+- 💞️ I’m a Freelance Full-Stack Web Engineer and always open to collaboration.
+- 📫 You can reach me at, Matt@Vyathan.com
